@@ -25,3 +25,4 @@ resource "docker_container" "nginx" {
     external = var.external_port
   }
 }
+
