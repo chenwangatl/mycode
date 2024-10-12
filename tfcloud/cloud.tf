@@ -4,7 +4,7 @@ terraform {
     organization = "wangchen-testg" 
 
     workspaces { 
-      name = "my-example" 
+      name = "work2project" 
     } 
   } 
 }
